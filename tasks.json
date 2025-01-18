@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Сделать приложение",
+        "subtasks": [
+            {
+                "name": "Написать рабочий код",
+                "completed": true
+            },
+            {
+                "name": "Доработать визуал",
+                "completed": false
+            },
+            {
+                "name": "Написать документацию к коду",
+                "completed": false
+            },
+            {
+                "name": "Сделать Exe файл",
+                "completed": false
+            },
+            {
+                "name": "Сделать инсталятор",
+                "completed": false
+            }
+        ]
+    },
+    {
+        "name": "Задача",
+        "subtasks": [
+            {
+                "name": "Подзадача 1",
+                "completed": true
+            },
+            {
+                "name": "Подзадача 2",
+                "completed": false
+            }
+        ]
+    }
+]
